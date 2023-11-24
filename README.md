@@ -7,6 +7,7 @@ It has been modified from the work at: <https://github.com/innovativeinnovation/
 Modifications include:
 
 - Update of the color to fit usage for UAB.
+- Changed content to be basics of Git and Bash.
 
 ## Requirements
 
