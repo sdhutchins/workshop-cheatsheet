@@ -2,9 +2,9 @@
 
 This repository provides a LaTeX template for creating cheatsheets.
 
-# Requirements
+## Requirements
 
-## macOS Installation (Tested on macOS)
+### macOS Installation (Tested on macOS)
 
 To use this template, you'll need to have the following dependencies installed on your macOS system:
 
@@ -16,13 +16,13 @@ To use this template, you'll need to have the following dependencies installed o
 
    `brew install make`
 
-# Usage
+## Usage
 
 Follow these steps to create your cheatsheet:
 
 1. Clone or download this repository to your local machine:
 
-   `git clone <repository-url>`
+   `git clone https://github.com/sdhutchins/workshop-cheatsheet.git`
 
 2. Navigate to the repository directory:
 
@@ -38,7 +38,7 @@ Follow these steps to create your cheatsheet:
 
 6. Customize and enhance the cheatsheet according to your workshop needs.
 
-# Author
+## Author
 
 Feel free to reach out if you have any questions or need assistance with LaTeX or this template.
 
