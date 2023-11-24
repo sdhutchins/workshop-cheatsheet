@@ -6,7 +6,7 @@ all: compile
 
 # Change directory to "src" and compile "cheatsheet.tex" into a PDF.
 compile: src/cheatsheet.tex
-	cd src ; latexmk -pdf -pdflatex="pdflatex" -use-make cheatsheet.tex
+	cd src ; latexmk -pdf -pdflatex="pdflatex" -use-make -output-directory=../docs cheatsheet.tex
 
 # Change directory to "src" and clean up intermediate files and PDF output.
 clean:
