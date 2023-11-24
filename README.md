@@ -2,6 +2,12 @@
 
 This repository provides a LaTeX template for creating cheatsheets.
 
+It has been modified from the work at: <https://github.com/innovativeinnovation/cheatsheet-latex-template>.
+
+Modifications include:
+
+- Update of the color to fit usage for UAB.
+
 ## Requirements
 
 ### macOS Installation (Tested on macOS)
@@ -43,3 +49,7 @@ Follow these steps to create your cheatsheet:
 Feel free to reach out if you have any questions or need assistance with LaTeX or this template.
 
 Shaurita D. Hutchins | [@sdhutchins](https://github.com/sdhutchins) | [sdhutchins@uab.edu](mailto:sdhutchins@uab.edu)
+
+## License
+
+The LaTeX Project Public License. See the [LICENSE](LICENSE.md) file for more details.
